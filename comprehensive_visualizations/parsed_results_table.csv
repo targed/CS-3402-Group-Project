@@ -1,0 +1,29 @@
+file_name,model,label,family,lang,f1,exact_match,is_finetuned
+QWEN1.5-0.5B.en.json,QWEN1.5-0.5B,QWEN1.5-0.5B,Qwen,EN,19.231077125133414,2.0168067226890756,False
+QWEN1.5-0.5B.es.json,QWEN1.5-0.5B,QWEN1.5-0.5B,Qwen,ES,5.1247146013638565,0.33613445378151263,False
+QWEN1.5-14B.en.json,QWEN1.5-14B,QWEN1.5-14B,Qwen,EN,55.48457712834377,35.04201680672269,False
+QWEN1.5-14B.es.json,QWEN1.5-14B,QWEN1.5-14B,Qwen,ES,33.40488059144901,14.201680672268907,False
+QWEN1.5-72B.en.json,QWEN1.5-72B,QWEN1.5-72B,Qwen,EN,37.80705124425852,10.92436974789916,False
+QWEN1.5-72B.es.json,QWEN1.5-72B,QWEN1.5-72B,Qwen,ES,26.465999626405917,14.53781512605042,False
+Ministral-3-3B-Base-2512.en.json,Ministral-3-3B-Base-2512,Ministral-3-3B-Base-2512,Ministral,EN,18.210479410550974,5.546218487394958,False
+Ministral-3-3B-Base-2512.es.json,Ministral-3-3B-Base-2512,Ministral-3-3B-Base-2512,Ministral,ES,8.827843412234131,0.16806722689075632,False
+Ministral-3-8B-Base-2512.en.json,Ministral-3-8B-Base-2512,Ministral-3-8B-Base-2512,Ministral,EN,9.123197951684956,1.7647058823529411,False
+Ministral-3-8B-Base-2512.es.json,Ministral-3-8B-Base-2512,Ministral-3-8B-Base-2512,Ministral,ES,6.448383402234704,0.0,False
+Ministral-3-14B-Base-2512.en.json,Ministral-3-14B-Base-2512,Ministral-3-14B-Base-2512,Ministral,EN,4.152385948545897,0.25210084033613445,False
+Ministral-3-14B-Base-2512.es.json,Ministral-3-14B-Base-2512,Ministral-3-14B-Base-2512,Ministral,ES,6.961124919138182,0.08403361344537816,False
+gemma-3-1b-pt.en.json,gemma-3-1b-pt,gemma-3-1b-pt,Gemma,EN,4.111483356349098,0.0,False
+gemma-3-1b-pt.es.json,gemma-3-1b-pt,gemma-3-1b-pt,Gemma,ES,4.897509299977655,0.0,False
+gemma-3-4b-pt.en.json,gemma-3-4b-pt,gemma-3-4b-pt,Gemma,EN,4.322888218851949,0.08403361344537816,False
+gemma-3-4b-pt.es.json,gemma-3-4b-pt,gemma-3-4b-pt,Gemma,ES,6.908448761641147,0.0,False
+gemma-3-12b-pt.en.json,gemma-3-12b-pt,gemma-3-12b-pt,Gemma,EN,5.155426703139256,0.16806722689075632,False
+gemma-3-12b-pt.es.json,gemma-3-12b-pt,gemma-3-12b-pt,Gemma,ES,6.785026350523713,0.25210084033613445,False
+gemma-3-27b-pt.en.json,gemma-3-27b-pt,gemma-3-27b-pt,Gemma,EN,6.748802286115181,0.25210084033613445,False
+gemma-3-27b-pt.es.json,gemma-3-27b-pt,gemma-3-27b-pt,Gemma,ES,6.899829373028155,0.0,False
+gemma-3-270m-it.en.json,gemma-3-270m-it,gemma-3-270m-it,Gemma,EN,9.962888975254172,0.0,False
+gemma-3-270m-it.es.json,gemma-3-270m-it,gemma-3-270m-it,Gemma,ES,6.877827586077575,0.08403361344537816,False
+gemini_3_flash_preview.en.json,gemini_3_flash_preview,gemini 3 flash preview,Gemini,EN,75.54544086512206,58.15126050420168,False
+gemini_3_flash_preview.es.json,gemini_3_flash_preview,gemini 3 flash preview,Gemini,ES,70.21163853402834,51.34453781512605,False
+finetuned_qwen_0.5B_en.json,finetuned_qwen_0.5B,FT qwen 0.5B,Fine-tuned Qwen,EN,72.23378559773482,60.67226890756302,True
+finetuned_qwen_0.5B_es.json,finetuned_qwen_0.5B,FT qwen 0.5B,Fine-tuned Qwen,ES,65.3977460769564,48.739495798319325,True
+finetuned_gemma_3_270m_en.json,finetuned_gemma_3_270m,FT gemma 3 270m,Fine-tuned Gemma,EN,23.54476922608893,15.714285714285714,True
+finetuned_gemma_3_270m_es.json,finetuned_gemma_3_270m,FT gemma 3 270m,Fine-tuned Gemma,ES,20.556003283098555,13.361344537815127,True

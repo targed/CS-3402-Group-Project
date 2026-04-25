@@ -1,0 +1,12 @@
+Summary of model performance
+
+Best EN F1: gemini 3 flash preview (75.55)
+Best ES F1: gemini 3 flash preview (70.21)
+Smallest EN-ES gap: gemma-3-27b-pt (-0.15)
+
+Top 5 models by average F1:
+- gemini 3 flash preview: EN=75.55, ES=70.21, AVG=72.88
+- FT qwen 0.5B: EN=72.23, ES=65.40, AVG=68.82
+- QWEN1.5-14B: EN=55.48, ES=33.40, AVG=44.44
+- QWEN1.5-72B: EN=37.81, ES=26.47, AVG=32.14
+- FT gemma 3 270m: EN=23.54, ES=20.56, AVG=22.05
